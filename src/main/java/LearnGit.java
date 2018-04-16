@@ -14,5 +14,6 @@ public class LearnGit {
         System.out.println("666661");
         System.out.println("555551");
         System.out.println("--------------this is branch 01---------");
+        System.out.println("22222");
     }
 }
